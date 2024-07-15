@@ -11,3 +11,33 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+/* css */
+.green {
+  background-color: green;
+  width: 100px;
+  height: 100px;
+}
+
+.comment {
+  width: 300px;
+  padding: 10px;
+  border: 1px solid #999;
+}
+
+.user {
+  width: 100%;
+  box-sizing: border-box;
+  margin-bottom: 10px;
+}
+
+.content {
+  width: 100%;
+  box-sizing: border-box;
+  margin-bottom: 10px;
+}
+
+.no-comment {
+  text-align: center;
+  margin-top: 30px;
+}
